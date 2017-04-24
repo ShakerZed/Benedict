@@ -1,0 +1,763 @@
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: s
+Ascii Value: 115
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: h
+Ascii Value: 104
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: a
+Ascii Value: 97
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: k
+Ascii Value: 107
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: r
+Ascii Value: 114
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: Control_L
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: Control_L
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: Shift_L
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: exclam
+Ascii Value: 33
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: Shift_L
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: asciitilde
+Ascii Value: 126
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: grave
+Ascii Value: 96
+MessageName: key down
+
+INFO:root:
+Window Name: takezo@Shodan: ~/code/pythoncode/projects/benedict
+
+Key Pressed: Super_L
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: Control_L
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: a
+Ascii Value: 97
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: s
+Ascii Value: 115
+MessageName: key down
+
+INFO:root:
+Window Name: Save As
+
+Key Pressed: Escape
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: Save As
+
+Key Pressed: grave
+Ascii Value: 96
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: g
+Ascii Value: 103
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: o
+Ascii Value: 111
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: o
+Ascii Value: 111
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: g
+Ascii Value: 103
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: l
+Ascii Value: 108
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: period
+Ascii Value: 46
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: c
+Ascii Value: 99
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: o
+Ascii Value: 111
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: m
+Ascii Value: 109
+MessageName: key down
+
+INFO:root:
+Window Name: Coding Horror - Mozilla Firefox
+
+Key Pressed: Return
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: d
+Ascii Value: 100
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: z
+Ascii Value: 122
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: space
+Ascii Value: 32
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: n
+Ascii Value: 110
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: u
+Ascii Value: 117
+MessageName: key down
+
+INFO:root:
+Window Name: Google - Mozilla Firefox
+
+Key Pressed: t
+Ascii Value: 116
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: s
+Ascii Value: 115
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: n
+Ascii Value: 110
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: i
+Ascii Value: 105
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: n
+Ascii Value: 110
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: j
+Ascii Value: 106
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: a
+Ascii Value: 97
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: space
+Ascii Value: 32
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: s
+Ascii Value: 115
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: o
+Ascii Value: 111
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: m
+Ascii Value: 109
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: t
+Ascii Value: 116
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: h
+Ascii Value: 104
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: i
+Ascii Value: 105
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: n
+Ascii Value: 110
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: g
+Ascii Value: 103
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: space
+Ascii Value: 32
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: l
+Ascii Value: 108
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: s
+Ascii Value: 115
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: e
+Ascii Value: 101
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: space
+Ascii Value: 32
+MessageName: key down
+
+INFO:root:
+Window Name: deez nuts - Google Search - Mozilla Firefox
+
+Key Pressed: Return
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: Escape
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: F1
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: F2
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: F3
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: F4
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: F5
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: grave
+Ascii Value: 96
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: grave
+Ascii Value: 96
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: BackSpace
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: Shift_R
+Ascii Value: 0
+MessageName: key down
+
+INFO:root:
+Window Name: something else - Google Search - Mozilla Firefox
+
+Key Pressed: asciitilde
+Ascii Value: 126
+MessageName: key down
+
